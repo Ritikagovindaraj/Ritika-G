@@ -1,0 +1,7 @@
+import random
+temperature = random.randint(0, 100)
+if(temperature>=25):
+    print("ALARM.........")
+else:
+    print("TEMPERATURE IS NORMAL....COOL!!!!!)
+
